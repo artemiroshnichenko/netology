@@ -9,6 +9,8 @@ __pycache__/
 #VSC
 .vscode
 
+*.csv
+
 # Distribution / packaging
 .Python
 build/
